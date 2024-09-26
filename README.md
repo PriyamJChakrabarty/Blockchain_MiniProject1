@@ -28,6 +28,6 @@ npx hardhat ignition deploy ignition/modules/WordUploader.js
 To compile and deploy the smart contract, use the following commands:
 
 ```bash
-cd client
+cd Client
 npm run dev
 ```
