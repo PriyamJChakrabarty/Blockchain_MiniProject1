@@ -1,6 +1,6 @@
 # WordUploader Smart Contract Project
 
-This project showcases a simple Solidity smart contract for uploading and retrieving words, deployed using a Vite app on the Fantom test network.
+This project is a simple Solidity smart contract for uploading and retrieving words, deployed using a Vite app on the Fantom test network.
 
 ## Overview
 
