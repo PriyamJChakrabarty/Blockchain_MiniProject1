@@ -1,0 +1,80 @@
+/* App.css */
+
+/* Basic styling for the app container */
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Styling for the title */
+.App h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* Styling for the connected account section */
+.App h2 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+/* Styling for the input and button */
+.App input {
+  padding: 10px;
+  font-size: 1rem;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.App button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.App button:hover {
+  background-color: #0056b3;
+}
+
+/* Styling for the list of uploaded words */
+.words-list {
+  margin-top: 20px;
+}
+
+.words-list h3 {
+  font-size: 1.25rem;
+  margin-bottom: 10px;
+}
+
+.words-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.words-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Styling for the "Connect to MetaMask" button */
+.App .connect-button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 4px;
+  background-color: #28a745;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.App .connect-button:hover {
+  background-color: #218838;
+}
